@@ -1,4 +1,3 @@
 # firstrepo
-Rahan Moahmmed 
-1604,
-Village O dr 
+name=Rahan Moahmmed 
+Address= 1604,Village O dr , Maryville MO
