@@ -1,5 +1,5 @@
 M Mole  
 N Newt
-O ocelot
+O Ocelot
 P Panda
 T Tiger
